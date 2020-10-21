@@ -1,3 +1,20 @@
-table {
+table, tr, td {
     border: 1px solid #000000;
+    background-color: #0068b8
+    
+}
+
+td {
+    color: #0068b8;
+    background-color: #73c2ff
+
+}
+
+
+tr, td {
+    padding: 50px;
+}
+
+.empty{
+    background-color: #0068b8
 }
